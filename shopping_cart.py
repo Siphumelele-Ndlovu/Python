@@ -5,7 +5,7 @@
 
 foods = []
 prices = []
-total = 0
+total_cost = 0.0
 
 while True:
     food = input("Enter a food to buy or press q to quit: ")
